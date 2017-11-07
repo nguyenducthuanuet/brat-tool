@@ -1,4 +1,4 @@
-# brat rapid annotation tool (brat) #
+# brat rapid annotation tool (brat)  #
 
 ## Documentation ##
 
