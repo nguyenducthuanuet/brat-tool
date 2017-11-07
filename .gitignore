@@ -8,3 +8,4 @@ config.py
 # Standard locations of data and server temporary files
 data/examples/
 data/tutorials/
+data/.stats_cache
