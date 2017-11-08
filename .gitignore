@@ -9,3 +9,5 @@ config.py
 data/examples/
 data/tutorials/
 data/.stats_cache
+
+**/.stats_cache
